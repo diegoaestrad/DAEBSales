@@ -1,0 +1,9 @@
+{
+  "name": "daebsales",
+  "version": "0.0.0",
+  "description": "DAEBSales",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
