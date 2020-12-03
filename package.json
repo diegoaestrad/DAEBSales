@@ -3,7 +3,22 @@
   "version": "0.0.0",
   "description": "DAEBSales",
   "main": "app.js",
-  "author": {
-    "name": ""
+  "author": "",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoaestrad/DAEBSales.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegoaestrad/DAEBSales/issues"
+  },
+  "homepage": "https://github.com/diegoaestrad/DAEBSales#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
   }
 }
